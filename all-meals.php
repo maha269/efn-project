@@ -1,8 +1,7 @@
 <?php include './components/header.php'; ?>	
 <div class="container">
     <div class="top-section">
-        <img class="cover-img" src="img/19.png">
-        <p>YOUR MONTHLY DIET</p>
+        <img class="cover-img" src="img/19.png"><br><br><br><br><br>
     </div>
     <ul class="nav nav-tabs weeks-nav ">
         <li class="active"><a data-toggle="tab" href="#week1" class="text-center week-link responsive-p active">Week 1</a></li>
@@ -394,9 +393,6 @@
                                     <h3>Friday nutrition facts </h3>
                                     <p></p>
                                 </div>
-                                <div class="col">
-                                    <!-- <button class="btn repeat-week-btn">Repeat friday's meals for te rest of the week</button> -->
-                                </div>
                             </div>
                             <div class="clearfix"></div>
                             <div class="row">
@@ -453,9 +449,6 @@
 
                     </div>
                 </div>
-                    <!-- <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
             </div>
         </div>
@@ -843,7 +836,6 @@
                                     <p></p>
                                 </div>
                                 <div class="col">
-                                    <!-- <button class="btn repeat-week-btn">Repeat friday's meals for te rest of the week</button> -->
                                 </div>
                             </div>
                             <div class="clearfix"></div>
@@ -901,9 +893,6 @@
 
                     </div>
                 </div>
-                    <!-- <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
             </div>
         </div>
@@ -1291,9 +1280,6 @@
                                     <h3>Friday nutrition facts </h3>
                                     <p></p>
                                 </div>
-                                <div class="col">
-                                    <!-- <button class="btn repeat-week-btn">Repeat friday's meals for te rest of the week</button> -->
-                                </div>
                             </div>
                             <div class="clearfix"></div>
                             <div class="row">
@@ -1350,9 +1336,6 @@
 
                     </div>
                 </div>
-                    <!-- <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
             </div>
         </div>
@@ -1368,7 +1351,6 @@
                         <p></p>
                     </div>
                     <div class="col">
-                        <!-- <button class="btn repeat-week-btn">Repeat third week's meals for next week</button> -->
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -1742,9 +1724,6 @@
                                     <h3>Friday nutrition facts </h3>
                                     <p></p>
                                 </div>
-                                <div class="col">
-                                    <!-- <button class="btn repeat-week-btn">Repeat friday's meals for te rest of the week</button> -->
-                                </div>
                             </div>
                             <div class="clearfix"></div>
                             <div class="row">
@@ -1801,9 +1780,6 @@
 
                     </div>
                 </div>
-                    <!-- <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
             </div>
         </div>

@@ -15,12 +15,15 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="css/flaticon.css"/>
-	<link rel="stylesheet" href="css/slicknav.min.css"/>
 	<link rel="stylesheet" href="css/jquery-ui.min.css"/>
-	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
 	<link rel="stylesheet" href="css/animate.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
 
+	<link rel="stylesheet" type="text/css" href="ResponsiveImageGallery/css/elastislide.css" />
+	
+	<!-- <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">	
+		
+	</script> -->
 
 	<!--[if lt IE 9]>
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
