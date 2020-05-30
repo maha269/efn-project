@@ -70,28 +70,28 @@ $(document).ready(function() {
 	  );
 });
 
-(function($) {
+// (function($) {
 	/*------------------
 		Navigation
 	--------------------*/
-	$('.main-menu').slicknav({
-		prependTo:'.main-navbar .container',
-		closedSymbol: '<i class="flaticon-right-arrow"></i>',
-		openedSymbol: '<i class="flaticon-down-arrow"></i>'
-	});
+	// $('.main-menu').slicknav({
+	// 	prependTo:'.main-navbar .container',
+	// 	closedSymbol: '<i class="flaticon-right-arrow"></i>',
+	// 	openedSymbol: '<i class="flaticon-down-arrow"></i>'
+	// });
 
 
 
-})(jQuery);
+// })(jQuery);
 
-$('[data-fancybox="watermark"]').fancybox({
-	protect    : true,
-	slideClass : 'watermark',
-	toolbar    : false,
-	smallBtn   : false
+// $('[data-fancybox="watermark"]').fancybox({
+// 	protect    : true,
+// 	slideClass : 'watermark',
+// 	toolbar    : false,
+// 	smallBtn   : false
 
 
-});
+// });
 
 // Preload watermark image
 // Please, use your own image

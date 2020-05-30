@@ -1,7 +1,7 @@
 <?php include './components/header.php'; ?>	
 <div class="container">
     <div class="top-section">
-        <img class="cover-img" src="img/20.png"><br><br><br>
+        <img class="cover-img" src="img/20.PNG"><br><br><br>
     </div>
     <div class="row">
         <img src="img/food.png" class="food-icon">

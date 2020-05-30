@@ -21,6 +21,10 @@
 
 	<link rel="stylesheet" type="text/css" href="ResponsiveImageGallery/css/elastislide.css" />
 	
+	<!-- slick slider -->
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<!-- // Add the new slick-theme.css if you want the default styling -->
+	<!-- <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/> -->
 	<!-- <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">	
 		
 	</script> -->
