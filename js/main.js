@@ -97,3 +97,16 @@ $(document).ready(function() {
 // Please, use your own image
 (new Image()).src = "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png";
 
+
+var count = 50;
+var countEl = document.getElementById("count");
+function plus(){
+	count= count + 50;
+	countEl.value = count;
+}
+function minus(){
+  if (count > 50) {
+	count= count -50;
+	countEl.value = count;
+  }  
+}

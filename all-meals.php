@@ -122,7 +122,7 @@
                                         <div class="panel-thumbnail">
                                             <a href="#" title="meal 2" class="thumb content">
                                             <!-- <div class="content-overlay"></div> -->
-                                            <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                            <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                             data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                             <!-- <h3 class="content-title"></h3>   -->
                                             </a>
@@ -213,7 +213,7 @@
                                         <div class="panel-thumbnail">
                                             <a href="#" title="meal 2" class="thumb content">
                                             <!-- <div class="content-overlay"></div> -->
-                                            <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                            <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                             data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                             <!-- <h3 class="content-title"></h3>   -->
                                             </a>
@@ -300,7 +300,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -385,7 +385,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -470,7 +470,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -551,7 +551,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -682,7 +682,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -762,7 +762,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -844,7 +844,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -927,7 +927,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1011,7 +1011,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1092,7 +1092,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1220,7 +1220,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1300,7 +1300,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1382,7 +1382,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1465,7 +1465,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1549,7 +1549,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1630,7 +1630,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1762,7 +1762,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1842,7 +1842,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -1924,7 +1924,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -2007,7 +2007,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -2091,7 +2091,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -2172,7 +2172,7 @@
                                         <div class="panel panel-default">
                                             <div class="panel-thumbnail">
                                                 <a href="#" title="meal 2" class="thumb content">
-                                                <img class="content-image" src="img/plus.PNG" class="img-responsive img-rounded" 
+                                                <img class="content-image" src="img/plus.png" class="img-responsive img-rounded" 
                                                 data-toggle="modal" data-target=".modal-profile-lg" style="border: 1Px solid #DDD7D7;">
                                                 </a>
                                             </div>
@@ -2221,56 +2221,281 @@
 						<h3 class="modal-title"></h3>
                     </div>
                     <div class="modal-facts bg-light-grey">
-                                <div class="row">
+                        <div class="row">
+                            <div class="col">
+                                <h3>Nutrition facts </h3>
+                                <p></p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="row">
+                            <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
+                                <h5>TOTAL PRICE : 200 $</h5>
+                            </div>
+                            <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
+                                <h5>CALORIES: 2000 KC</h5>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                <h5>TOTAL PROTEIN : 200 G</h5>
+                            </div>
+                            <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                <h5>TOTAL CARBS : 200 G</h5>
+                            </div>
+                            <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                <h5>TOTAL FATS : 200 G</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row acordion">
+                        <div class="col"> 
+                            <h2></h2>
+                            <div class="tabs">
+                            <div class="tab">
+                                <input type="checkbox" id="chck1">
+                                <label class="tab-label" for="chck1">protein </label>
+                                <div class="tab-content row">
+                                    <div id="protein" class="tab-pane in active single-source">
+                                        <div class="row single-dish">
+                                            <div class="col col-sm-4 col-xs-4 col-md-4">
+                                                <img src="img/14.jpg">
+                                            </div>
+                                            <div class="col  col-sm-8 col-xs-8 col-md-8">
+                                                <div class = "row" style="margin-top: 2%;">
+                                                    <div class="col col-sm-3 col-xs-3 col-md-3">
+                                                        <h4 class="">Roasted salmon</h4>
+                                                    </div>
+                                                    <div class="col col-sm-2 col-xs-2 col-md-2">
+                                                        <input class="dish-input-check" type="checkbox" checked>
+                                                    </div>
+                                                    <div class="col col-sm-8 col-xs-8 col-md-8">
+                                                        <div class="input-group mb-3">
+                                                            <div class="input-group-prepend">
+                                                                <label class="input-group-text" for="inputGroupSelect01">Weight</label>
+                                                            </div>
+                                                            <!-- <select class="custom-select" id="inputGroupSelect01">
+                                                                <option value="1" selected>100 G</option>
+                                                                <option value="2">200 G</option>
+                                                                <option value="3">300 G</option>
+                                                            </select> -->
+                                                            <div id="input_div">
+                                                                <input type="text" class="form-control dish-input-check " style="width:40% ;"size="25" value="50" id="count">
+                                                                <input type="button"  class="dish-input-check form-control" value="-" id="moins" onclick="minus()">
+                                                                <input type="button" class="dish-input-check form-control" style="left: 72%;" value="+" id="plus" onclick="plus()">
+                                                            </div>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <hr>
+                                        <div class="row single-dish">
+                                            <div class="col col-sm-4 col-xs-4 col-md-4">
+                                                <img src="img/2.jpg">
+                                            </div>
+                                            <div class="col  col-sm-8 col-xs-8 col-md-8">
+                                                <div class = "row" style="margin-top: 2%;">
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <h4 class="">Roasted chicken</h4>
+                                                    </div>
+                                                    <div class="col col-sm-2 col-xs-2 col-md-2">
+                                                        <input class="dish-input-check" type="checkbox" >
+                                                    </div>
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <div class="input-group mb-3">
+                                                            <div class="input-group-prepend">
+                                                                <label class="input-group-text" for="inputGroupSelect01">Weight</label>
+                                                            </div>
+                                                            <select class="custom-select" id="inputGroupSelect01">
+                                                                <option selected>Choose...</option>
+                                                                <option value="1">100 G</option>
+                                                                <option value="2">200 G</option>
+                                                                <option value="3" >300 G</option>
+                                                            </select>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                            
+                                        </div>
+                                        <hr>
+                                        <div class="row single-dish">
+                                            <div class="col col-sm-4 col-xs-4 col-md-4">
+                                                <img src="img/5.jpg">
+                                            </div>
+                                            <div class="col  col-sm-8 col-xs-8 col-md-8">
+                                                <div class = "row" style="margin-top: 2%;">
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <h4 class="">sheesh tawwoq</h4>
+                                                    </div>
+                                                    <div class="col col-sm-2 col-xs-2 col-md-2">
+                                                        <input class="dish-input-check" type="checkbox" >
+                                                    </div>
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <div class="input-group mb-3">
+                                                            <div class="input-group-prepend">
+                                                                <label class="input-group-text" for="inputGroupSelect01">Weight</label>
+                                                            </div>
+                                                            <select class="custom-select" id="inputGroupSelect01">
+                                                                <option selected>Choose...</option>
+                                                                <option value="1">100 G</option>
+                                                                <option value="2">200 G</option>
+                                                                <option value="3" >300 G</option>
+                                                            </select>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab">
+                                <input type="checkbox" id="chck2">
+                                <label class="tab-label" for="chck2">carbohydrates </label>
+                                <div class="tab-content row">
+                                    
                                     <div class="col">
-                                        <h3>Nutrition facts </h3>
-                                        <p></p>
+                                        <img  src="img/carbs.PNG" >
                                     </div>
+                                    <div class="col"><h2>Eggs</h2></div>
+                                    <div class="col input_div"><br><br><br>
+                                        <input type="text" size="25" value="1" id="count">
+                                        <input type="button" value="-" id="moins" onclick="minus()">
+                                        <input type="button" value="+" id="plus" onclick="plus()">
+
+                                    </div>
+                                    <!-- <div id="carbs" class="tab-pane single-source"> -->
+                                        <!-- <div class="row single-dish">
+                                            <div class="col col-sm-4 col-xs-4 col-md-4">
+                                                <img src="img/4.jpg">
+                                            </div>
+                                            <div class="col  col-sm-8 col-xs-8 col-md-8">
+                                                <div class = "row" style="margin-top: 2%;">
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <h4 class="">pizza</h4>
+                                                    </div>
+                                                    <div class="col col-sm-2 col-xs-2 col-md-2">    
+                                                        <input class="dish-input-check" type="checkbox" >
+                                                    </div>
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <div class="input-group mb-3">
+                                                            <div class="input-group-prepend">
+                                                                <label class="input-group-text" for="inputGroupSelect01">Weight</label>
+                                                            </div>
+                                                            <select class="custom-select" id="inputGroupSelect01">
+                                                                <option selected>Choose...</option>
+                                                                <option value="1" selected>100 G</option>
+                                                                <option value="2">200 G</option>
+                                                                <option value="3">300 G</option>
+                                                            </select>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div> -->
+                                        <hr>
+                                        <!-- <div class="row single-dish">
+                                            <div class="col col-sm-4 col-xs-4 col-md-4">
+                                                <img src="img/8.jpg">
+                                            </div>
+                                            <div class="col  col-sm-8 col-xs-8 col-md-8">
+                                                <div class = "row" style="margin-top: 2%;">
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <h4 class="">Sandwich</h4>
+                                                    </div>
+                                                    <div class="col col-sm-2 col-xs-2 col-md-2">
+                                                        <input class="dish-input-check" type="checkbox" checked>
+                                                    </div>
+                                                    <div class="col col-sm-5 col-xs-5 col-md-5">
+                                                        <div class="input-group mb-3">
+                                                            <div class="input-group-prepend">
+                                                                <label class="input-group-text" for="inputGroupSelect01">Weight</label>
+                                                            </div>
+                                                            <select class="custom-select" id="inputGroupSelect01">
+                                                                <option selected>Choose...</option>
+                                                                <option value="1">100 G</option>
+                                                                <option value="2">200 G</option>
+                                                                <option value="3" >300 G</option>
+                                                            </select>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                            
+                                        </div> -->
+                                        
+                                    <!-- </div> -->
+                                                   
                                 </div>
-                                <div class="clearfix"></div>
-                                <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
+                            </div>
+                            <div class="tab">
+                                <input type="checkbox" id="chck3">
+                                <label class="tab-label" for="chck3">vegetables </label>
+                                <div class="tab-content">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
                                 </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                                        <h5>TOTAL PROTEIN : 200 G</h5>
-                                    </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                                        <h5>TOTAL CARBS : 200 G</h5>
-                                    </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                                        <h5>TOTAL FATS : 200 G</h5>
-                                    </div>
+                            </div>
+                            <div class="tab">
+                                <input type="checkbox" id="chck4">
+                                <label class="tab-label" for="chck4">drinks </label>
+                                <div class="tab-content">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
                                 </div>
-                            </div><br>
+                            </div>
+                            <div class="tab">
+                                <input type="checkbox" id="chck5">
+                                <label class="tab-label" for="chck5">sauces </label>
+                                <div class="tab-content">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
+                                </div>
+                            </div>
+                            <div class="tab">
+                                <input type="checkbox" id="chck6">
+                                <label class="tab-label" for="chck6">snack </label>
+                                <div class="tab-content">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
+                                </div>
+                            </div>
+                            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+
+
+
                     <ul class="nav modal-tabs sorces-nav ">
                         <li class="source-tab active"><a href="#protein" class="text-center week-link responsive-p active" data-toggle="tab">
-                            <img class="source-tab-img" src="img/protein.png"  />
+                            <img class="source-tab-img" src="img/protein.PNG"  />
                             </a></li>
                         <li class="source-tab "><a href="#carbs" class="text-center week-link responsive-p" data-toggle="tab">
-                        <img class="source-tab-img" src="img/carbs.png"  />
+                        <img class="source-tab-img" src="img/carbs.PNG"  />
                         </a></li>
                         <li class="source-tab "><a href="#vegetables" class="text-center week-link responsive-p" data-toggle="tab">
-                            <img class="source-tab-img" src="img/vegetables.png" />
+                            <img class="source-tab-img" src="img/vegetables.PNG" />
                             </a></li>
                             <li class="source-tab "><a href="#salade" class="text-center week-link responsive-p" data-toggle="tab">
-                        <img class="source-tab-img" src="img/salade.png" />
+                        <img class="source-tab-img" src="img/salade.PNG" />
                         </a></li>
                         <li class="source-tab "><a href="#drinks" class="text-center week-link responsive-p" data-toggle="tab">
-                            <img class="source-tab-img" src="img/drinks.png" />
+                            <img class="source-tab-img" src="img/drinks.PNG" />
                         </a></li>
                         <li class="source-tab "><a href="#snack" class="text-center week-link responsive-p" data-toggle="tab">
-                            <img class="source-tab-img" src="img/snack.png"  />
+                            <img class="source-tab-img" src="img/snack.PNG"  />
                             </a></li>
 
                     </ul> 
                     <div class="tab-content">
-                        <div id="protein" class="tab-pane in active single-source">
+                        <!-- <div id="protein" class="tab-pane in active single-source">
                             <div class="row single-dish">
                                 <div class="col col-sm-4 col-xs-4 col-md-4">
                                     <img src="img/14.jpg">
@@ -2362,10 +2587,10 @@
                                 </div>
                                 
                             </div>
-                        </div>
+                        </div> -->
                         
-                        <div id="carbs" class="tab-pane single-source">
-                        <div class="row single-dish">
+                        <!-- <div id="carbs" class="tab-pane single-source">
+                            <div class="row single-dish">
                                 <div class="col col-sm-4 col-xs-4 col-md-4">
                                     <img src="img/4.jpg">
                                 </div>
@@ -2426,7 +2651,7 @@
                                 
                             </div>
                             
-                        </div>
+                        </div> -->
                         <div id="vegetables" class="tab-pane single-source">
                         <div class="row single-dish">
                                 <div class="col col-sm-4 col-xs-4 col-md-4">
@@ -2525,7 +2750,7 @@
                         <div id="drinks" class="tab-pane single-source">
                         <div class="row single-dish">
                                 <div class="col col-sm-4 col-xs-4 col-md-4">
-                                    <img src="img/food.PNG">
+                                    <img src="img/food.png">
                                 </div>
                                 <div class="col  col-sm-8 col-xs-8 col-md-8">
                                     <div class = "row" style="margin-top: 2%;">
@@ -2550,7 +2775,7 @@
                             <hr>
                             <div class="row single-dish">
                                 <div class="col col-sm-4 col-xs-4 col-md-4">
-                                    <img src="img/food.PNG">
+                                    <img src="img/food.png">
                                 </div>
                                 <div class="col  col-sm-8 col-xs-8 col-md-8">
                                     <div class = "row" style="margin-top: 2%;">
