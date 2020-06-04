@@ -37,9 +37,9 @@
 </head>
 <body>
 	<!-- Page Preloder -->
-	<div id="preloder">
+	<!-- <div id="preloder">
 		<div class="loader"></div>
-	</div>
+	</div> -->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container">
 			<div class="logo">
