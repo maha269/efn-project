@@ -17,6 +17,15 @@
         <div id="week1" class="tab-pane in active">
             <br>
             <div class=" bg-dark-grey">
+
+                <div class="row">
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>TOTAL PRICE : 200 $</h3>
+                    </div>
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>CALORIES: 2000 KC</h3>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col col-lg-8 col-md-8 col-sm-8 col-xs-8">
                         <h2 class="green font-weight-bold"> nutrition facts </h2>
@@ -38,24 +47,15 @@
                         </div>
                     </div>
                 </div>
-                <br>
                 <div class="clearfix"></div>
                 <div class="row">
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>TOTAL PRICE : 200 $</h5>
-                    </div>
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>CALORIES: 2000 KC</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL PROTEIN : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL CARBS : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL FATS : 200 G</h5>
                     </div>
                 </div>
@@ -70,9 +70,18 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h3 class="responsive-h3">Sunday nutrition facts </>
+                                        <h2 class="green font-weight-bold">Sunday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                     <div class="col">
@@ -81,24 +90,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br><br>
-                                <div class="clearfix"></div>
+                                <br><div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -168,9 +168,18 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h2 class="responsive-h3">Monday nutrition facts </h2>
+                                        <h2 class="green font-weight-bold">Monday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                     <div class="col">
@@ -179,24 +188,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -264,9 +264,18 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h2 class="responsive-h3">Tuesday nutrition facts </h2>
+                                        <h2 class="green font-weight-bold">Tuesday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                     <div class="col">
@@ -275,24 +284,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -355,9 +355,18 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h2 class="responsive-h3">Wednesday nutrition facts </h2>
+                                        <h2 class="green font-weight-bold">Wednesday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                     <div class="col">
@@ -366,24 +375,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -446,9 +446,18 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h2 class="responsive-h3">Thursday nutrition facts </h2>
+                                        <h2 class="green font-weight-bold">Thursday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                     <div class="col">
@@ -457,24 +466,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -536,29 +536,30 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
-                                        <h2 class="responsive-h3">Friday nutrition facts </h2>
+                                        <h2 class="green font-weight-bold">Friday nutrition facts </h2>
                                         <p></p>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -620,6 +621,15 @@
         <div id="week2" class="tab-pane ">
             <br>
             <div class=" bg-dark-grey">
+
+                <div class="row">
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>TOTAL PRICE : 200 $</h3>
+                    </div>
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>CALORIES: 2000 KC</h3>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col">
                         <h2 class="green font-weight-bold">Second week nutrition facts </h2>
@@ -640,24 +650,15 @@
                         </div>
                     </div>
                 </div>
-                <br>
                 <div class="clearfix"></div>
                 <div class="row">
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>TOTAL PRICE : 200 $</h5>
-                    </div>
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>CALORIES: 2000 KC</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL PROTEIN : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL CARBS : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL FATS : 200 G</h5>
                     </div>
                 </div>
@@ -672,6 +673,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Sunday nutrition facts </h2>
@@ -683,24 +693,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -760,6 +761,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Monday nutrition facts </h2>
@@ -771,24 +781,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -850,6 +851,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Tuesday nutrition facts </h2>
@@ -861,24 +871,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -940,6 +941,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Wednesday nutrition facts </h2>
@@ -951,24 +961,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1030,6 +1031,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Thursday nutrition facts </h2>
@@ -1041,24 +1051,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1120,6 +1121,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Friday nutrition facts </h2>
@@ -1128,21 +1138,13 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1201,6 +1203,15 @@
         <div id="week3" class="tab-pane ">
             <br>
             <div class=" bg-dark-grey">
+
+                <div class="row">
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>TOTAL PRICE : 200 $</h3>
+                    </div>
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>CALORIES: 2000 KC</h3>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col">
                         <h2 class="green font-weight-bold">Third week nutrition facts </h2>
@@ -1222,24 +1233,15 @@
                         </div>
                     </div>
                 </div>
-                <br>
                 <div class="clearfix"></div>
                 <div class="row">
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>TOTAL PRICE : 200 $</h5>
-                    </div>
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>CALORIES: 2000 KC</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL PROTEIN : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL CARBS : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL FATS : 200 G</h5>
                     </div>
                 </div>
@@ -1254,6 +1256,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Sunday nutrition facts </h2>
@@ -1265,24 +1276,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1342,6 +1344,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Monday nutrition facts </h2>
@@ -1353,24 +1364,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1432,6 +1434,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Tuesday nutrition facts </h2>
@@ -1443,24 +1454,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1522,6 +1524,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Wednesday nutrition facts </h2>
@@ -1533,24 +1544,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1612,6 +1614,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Thursday nutrition facts </h2>
@@ -1623,24 +1634,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1702,6 +1704,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Friday nutrition facts </h2>
@@ -1710,21 +1721,13 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1786,6 +1789,15 @@
         <div id="week4" class="tab-pane ">
             <br>
             <div class=" bg-dark-grey">
+
+                <div class="row">
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>TOTAL PRICE : 200 $</h3>
+                    </div>
+                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                        <h3>CALORIES: 2000 KC</h3>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col">
                         <h2 class="green font-weight-bold">Fourth week nutrition facts </h2>
@@ -1809,21 +1821,13 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="row">
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>TOTAL PRICE : 200 $</h5>
-                    </div>
-                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                        <h5>CALORIES: 2000 KC</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL PROTEIN : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL CARBS : 200 G</h5>
                     </div>
-                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                         <h5>TOTAL FATS : 200 G</h5>
                     </div>
                 </div>
@@ -1838,6 +1842,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Sunday nutrition facts </h2>
@@ -1849,24 +1862,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -1926,6 +1930,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Monday nutrition facts </h2>
@@ -1937,24 +1950,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -2016,6 +2020,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Tuesday nutrition facts </h2>
@@ -2027,24 +2040,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -2106,6 +2110,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Wednesday nutrition facts </h2>
@@ -2117,24 +2130,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -2196,6 +2200,15 @@
                         <div id="sun" class="tab-pane in active">
                             <br>
                             <div class=" bg-light-grey">
+
+                                <div class="row">
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>TOTAL PRICE : 200 $</h3>
+                                    </div>
+                                    <div class="col col-md-6 col-lg-6 col-sm-6">
+                                        <h3>CALORIES: 2000 KC</h3>
+                                    </div>
+                                </div>
                                 <div class="row">
                                     <div class="col">
                                         <h2 class="green font-weight-bold">Thursday nutrition facts </h2>
@@ -2207,24 +2220,15 @@
                                         </button>
                                     </div>
                                 </div>
-                                <br>
                                 <div class="clearfix"></div>
                                 <div class="row">
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>TOTAL PRICE : 200 $</h5>
-                                    </div>
-                                    <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                                        <h5>CALORIES: 2000 KC</h5>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -2303,13 +2307,13 @@
                                 <div class="clearfix"></div>
 
                                 <div class="row">
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL PROTEIN : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL CARBS : 200 G</h5>
                                     </div>
-                                    <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
+                                    <div class="col col-md-4 col-lg-4 col-sm-4 ">
                                         <h5>TOTAL FATS : 200 G</h5>
                                     </div>
                                 </div>
@@ -2390,30 +2394,31 @@
                     <h3 class="modal-title"></h3>
                 </div>
                 <div class="modal-facts bg-light-grey">
+
                     <div class="row">
                         <div class="col">
-                            <h2 class="green font-weight-bold">nutrition facts </h2>
+                            <h2 class="green font-weight-bold">first week nutrition facts </h2>
                             <p></p>
                         </div>
                     </div>
                     <div class="clearfix"></div>
                     <div class="row">
-                        <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                            <h5>TOTAL PRICE : 200 $</h5>
+                        <div class="col col-md-6 col-lg-6 col-sm-6 ">
+                            <h3>TOTAL PRICE : 200 $</h3>
                         </div>
-                        <div class="col col-md-6 col-lg-6 col-sm-6 text-center">
-                            <h5>CALORIES: 2000 KC</h5>
+                        <div class="col col-md-6 col-lg-6 col-sm-6 ">
+                            <h3>CALORIES: 2000 KC</h3>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                            <h5>TOTAL PROTEIN : 200 G</h5>
+                        <div class="col col-md-4 col-lg-4 col-sm-4 ">
+                            <h5 class="font-weight-bold">TOTAL PROTEIN : 200 G</h5>
                         </div>
-                        <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                            <h5>TOTAL CARBS : 200 G</h5>
+                        <div class="col col-md-4 col-lg-4 col-sm-4 ">
+                            <h5  class="font-weight-bold">TOTAL CARBS : 200 G</h5>
                         </div>
-                        <div class="col col-md-4 col-lg-4 col-sm-4 text-center">
-                            <h5>TOTAL FATS : 200 G</h5>
+                        <div class="col col-md-4 col-lg-4 col-sm-4 ">
+                            <h5 class="font-weight-bold">TOTAL FATS : 200 G</h5>
                         </div>
                     </div>
                 </div>
