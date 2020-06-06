@@ -13,19 +13,9 @@
 
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="css/font-awesome.min.css"/>
-	<link rel="stylesheet" href="css/flaticon.css"/>
-	<link rel="stylesheet" href="css/jquery-ui.min.css"/>
 	<link rel="stylesheet" href="css/animate.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
-    <link rel="stylesheet" type="text/css" href="ResponsiveImageGallery/css/elastislide.css" />
-	
-	<!-- slick slider -->
-	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-
 
 	<!--[if lt IE 9]>
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -35,9 +25,9 @@
 </head>
 <body>
 	<!-- Page Preloder -->
-<!--	<div id="preloder">-->
-<!--		<div class="loader"></div>-->
-<!--	</div>-->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container">
 			<div class="logo">
